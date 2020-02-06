@@ -54,11 +54,9 @@ def test():
 
 
 
-
-
 if __name__ == '__main__':
     # config = openFile()
     # //f = printFile(config)
     # readInput()
 
-    permute([1,2,3,4], 0, 3)
+    permute([1,2,3], 0, 2)
